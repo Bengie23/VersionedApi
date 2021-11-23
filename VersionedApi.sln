@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionedApi", "VersionedApi.csproj", "{36A10A54-F1E9-4187-BE56-AC9D78657CCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionedApi.Services", "..\VersionedApi.Services\VersionedApi.Services.csproj", "{3D13653A-B8BE-486F-BF76-688D1828FA71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionedApi.Services", "VersionedApi.Services\VersionedApi.Services.csproj", "{3D13653A-B8BE-486F-BF76-688D1828FA71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionedApi.Infrastructure", "..\VersionedApi.Infrastructure\VersionedApi.Infrastructure.csproj", "{65275CC8-6A56-442C-93C7-83B0A0D8D8EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VersionedApi.Infrastructure", "VersionedApi.Infrastructure\VersionedApi.Infrastructure.csproj", "{65275CC8-6A56-442C-93C7-83B0A0D8D8EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
